@@ -5,3 +5,5 @@
 2 To run test from base directory (package.json file has scripts defined): npm test
 2.1 baseUrl: https://worldentities.org/api/
 2.2 Will not run as website address is not hosted
+
+3 test code in: E_VR/cypress/integration/evr-api-tests/evr.spec.js
