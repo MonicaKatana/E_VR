@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://worldentities.org/api/",
+    "integrationFolder": "cypress/integration/evr-api-tests"
+}
